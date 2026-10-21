@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "profit-atlas",
+  "version": "0.1.0",
+  "description": "Evidence-based skills for mapping industry profit pools and reviewing how companies turn value into cash.",
+  "license": "MIT",
+  "keywords": [
+    "industry-research",
+    "company-analysis",
+    "profit-pools",
+    "agent-skills"
+  ]
+}
