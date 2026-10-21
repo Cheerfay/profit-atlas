@@ -14,6 +14,7 @@ Use these cases to test activation, evidence boundaries, and the required two-la
 - Produces Layer 1 and Layer 2 by default.
 - Answers in Chinese.
 - Uses a minimum financial spine rather than a generic company profile.
+- Links material company-specific claims to current primary sources and states their reporting periods; if source access is unavailable, says what remains unverified.
 
 ## 2. Indirect company-essence request
 

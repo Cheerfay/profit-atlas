@@ -30,6 +30,8 @@ Prioritize:
 2. Official investor-relations materials and regulatory filings.
 3. Authoritative industry or regulatory sources for context.
 
+For material company-specific claims, give the source link and reporting period. If the user's evidence is insufficient, retrieve current primary evidence when source access is available. If it is unavailable, say what could not be verified and keep the conclusion conditional rather than labeling it as disclosed.
+
 Separate three kinds of statements:
 
 - **Disclosed:** directly stated in a source.

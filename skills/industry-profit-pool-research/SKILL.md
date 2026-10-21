@@ -133,7 +133,7 @@ For every proposed opportunity, answer:
 - Can a platform, manufacturer, insurer, broker, landlord, publisher, or marketplace copy or bundle it?
 - Does the business compound through software, data, network effects, or switching costs, or does it reset with every product, customer, city, or SKU?
 
-Score each opportunity from 1 to 5 on:
+Score each opportunity qualitatively from 1 to 5, where **5 always means more attractive**. For the two burden criteria, lower sales, integration, capital, or offline burden therefore receives the higher score.
 
 - Pain and budget.
 - External right-to-win.

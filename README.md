@@ -48,6 +48,8 @@ For a company study that needs broader context, run the industry skill first, th
 - Startup opportunities are evaluated from external pain, budget, entry rights, defensibility, and economics. AI is classified as a possible core capability, enhancement, ordinary feature, or unnecessary—not assumed to be the answer.
 - Dedicated sector modules improve question coverage but are not required. Unlisted sectors use the general workflow and state the missing evidence explicitly.
 
+Profit Atlas is a research framework, not investment advice; independently verify evidence before making financial or operating decisions.
+
 ## Repository map
 
 ```text
