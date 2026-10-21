@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company Value Chain Review"
+  short_description: "Review what a company lives on and how value becomes cash."
+  default_prompt: "Analyze this company using the two-layer value-chain review: what it fundamentally lives on, and the core workflow from customer need to cash collection."
