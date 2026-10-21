@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industry Profit Pool Research"
+  short_description: "Map industry profit pools and credible startup entry points."
+  default_prompt: "Research this industry's profit pools, compare representative business models, and assess credible external startup entry points without assuming AI is the answer."
