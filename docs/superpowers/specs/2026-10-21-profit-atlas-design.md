@@ -29,8 +29,6 @@ profit-atlas/
 ├── examples/
 │   ├── industry/
 │   └── company/
-├── archive/
-│   └── original-packages/
 └── evals/
 ```
 
@@ -38,7 +36,7 @@ Only files with an immediate use are added. No build system or runtime dependenc
 
 ## Original-Source Preservation
 
-The four original Chinese and English ZIP packages are copied without modification into `archive/original-packages/`. A short archive README records their role as immutable recovery snapshots. The source folder outside the new repository also remains untouched. Canonical skills are built from copies, never by moving or rewriting the original packages in place.
+Before canonicalization, copy the original ZIP packages, expanded skill, and example folders into a dated backup directory beside the new Git repository. Keep that backup outside version control. Canonical skills are built from copies, never by moving or rewriting the original files in place.
 
 ## Skill 1: Industry Profit Pool Research
 
@@ -140,7 +138,7 @@ Each skill receives representative cases for:
 - Run the bundled skill validator against each skill.
 - Check plugin manifest syntax.
 - Scan for absolute local paths, secrets, placeholders, and `.DS_Store` files.
-- Verify archived package checksums against the original ZIP files.
+- Verify backup ZIP checksums against the original ZIP files.
 - Verify all referenced files exist.
 - Test representative prompts before declaring the repository ready.
 
