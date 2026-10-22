@@ -2,7 +2,7 @@
 
 This is a test brief, not a completed automotive-industry report.
 
-The completed Chinese test result is available in [`automotive-profit-pool-test-result-zh.md`](automotive-profit-pool-test-result-zh.md).
+Completed results: [English](automotive-profit-pool-test-result-en.md) · [中文](automotive-profit-pool-test-result-zh.md)
 
 ## Prompt
 
