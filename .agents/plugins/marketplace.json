@@ -1,0 +1,21 @@
+{
+  "name": "profit-atlas",
+  "interface": {
+    "displayName": "Profit Atlas"
+  },
+  "plugins": [
+    {
+      "name": "profit-atlas",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Cheerfay/profit-atlas.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Research"
+    }
+  ]
+}

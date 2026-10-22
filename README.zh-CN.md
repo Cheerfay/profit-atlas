@@ -28,9 +28,11 @@ Profit Atlas 是一组强调证据边界的 Agent Skills，支持两种不同的
 
 本仓库是一个**便携式 Agent Plugin**：根目录的 [`plugin.json`](plugin.json) 识别软件包，每个可复用工作流在 [`skills/`](skills/) 下，目录结构遵循开放的 Agent Skills 约定。
 
-1. 下载或克隆本仓库。
-2. 在支持的宿主中把它安装为本地插件，或把 [`skills/`](skills/) 中所需的目录复制到该宿主配置的 Skills 目录。
+1. 添加公开 marketplace：`codex plugin marketplace add Cheerfay/profit-atlas`。
+2. 安装插件：`codex plugin install profit-atlas@profit-atlas`。
 3. 新开一个对话，用自然语言提研究问题。若希望自动在行业问题与企业问题之间分流，安装两个目录。
+
+如果你的宿主不支持 marketplace，再下载或克隆本仓库，把 [`skills/`](skills/) 中所需的目录复制到该宿主配置的 Skills 目录。
 
 目前在 Codex 桌面端安装本地插件，请通过官方的 [local marketplace](https://developers.openai.com/plugins/build/plugins/#install-a-local-plugin-manually) 操作，并在安装后重启应用。我们已在干净的复制目录中验证包结构与两个 Skill 的 manifest；尚未声称在所有 Agent Skills 宿主完成自动触发实测。
 

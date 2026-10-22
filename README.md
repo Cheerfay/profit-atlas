@@ -28,9 +28,11 @@ Both reports distinguish disclosed facts, calculations, and inference; link prim
 
 This repository is a **portable Agent Plugin**: its root [`plugin.json`](plugin.json) identifies the package and each reusable workflow lives under [`skills/`](skills/). The layout follows the open Agent Skills convention.
 
-1. Download or clone this repository.
-2. Install the repository as a local plugin in a supported host, or copy either required folder from [`skills/`](skills/) into that host's configured Skills directory.
+1. Add the public marketplace: `codex plugin marketplace add Cheerfay/profit-atlas`.
+2. Install the plugin: `codex plugin install profit-atlas@profit-atlas`.
 3. Start a new chat and ask a natural-language research question. Install both folders when you want automatic routing between industry-first and company-first questions.
+
+If your host does not support marketplaces, clone or download this repository and copy either required folder from [`skills/`](skills/) into that host's configured Skills directory.
 
 For current Codex desktop local-plugin installation, use an official [local marketplace](https://developers.openai.com/plugins/build/plugins/#install-a-local-plugin-manually) and restart the app after installing. The package layout and both Skill manifests were validated in a clean copied-folder check; full automatic activation has **not** yet been tested across every Agent Skills host.
 
