@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Profit Atlas social preview</title>
+  <desc id="desc">A navy research card showing an industry-to-company value-chain map.</desc>
+  <rect width="1280" height="640" fill="#091724"/>
+  <path d="M-38 92C173 14 277 164 490 89s331-14 491-75 262 15 351-49M-43 150c212-80 330 62 529-11s338 1 507-66 251 31 336-21M-69 216c235-79 350 51 547-31s358 7 531-69 229 38 356-19" fill="none" stroke="#345064" stroke-width="1.5" opacity=".72"/>
+  <path d="M-11 506c160-113 337-33 443-128s218-72 349-21 235 79 321-5 149-111 234-98" fill="none" stroke="#183247" stroke-width="2" opacity=".95"/>
+  <g opacity=".24" stroke="#f3e7cb" fill="none">
+    <circle cx="954" cy="445" r="145"/><circle cx="954" cy="445" r="101"/><circle cx="954" cy="445" r="57"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M708 480H808L878 395H993L1070 324H1185" fill="none" stroke="#ed8c72" stroke-width="5"/>
+    <path d="M708 480H808L878 395H993L1070 324H1185" fill="none" stroke="#f3e7cb" stroke-width="1.5" opacity=".75"/>
+    <circle cx="708" cy="480" r="13" fill="#0d2434" stroke="#f3e7cb" stroke-width="3"/>
+    <circle cx="808" cy="480" r="13" fill="#0d2434" stroke="#f3e7cb" stroke-width="3"/>
+    <circle cx="878" cy="395" r="13" fill="#0d2434" stroke="#86c9c5" stroke-width="3"/>
+    <circle cx="993" cy="395" r="13" fill="#0d2434" stroke="#f3e7cb" stroke-width="3"/>
+    <circle cx="1070" cy="324" r="13" fill="#0d2434" stroke="#86c9c5" stroke-width="3"/>
+    <path d="m1175 307 23 17-22 18" fill="none" stroke="#ed8c72" stroke-width="5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f5ead1">
+    <text x="98" y="213" font-size="24" font-weight="700" letter-spacing="5">PROFIT ATLAS</text>
+    <text x="98" y="291" font-size="58" font-weight="700" letter-spacing="-1">Find where a business</text>
+    <text x="98" y="357" font-size="58" font-weight="700" letter-spacing="-1">actually makes money.</text>
+    <text x="101" y="416" font-size="21" fill="#a9c0c9">Agent skills for industry profit pools</text>
+    <text x="101" y="446" font-size="21" fill="#a9c0c9">and company value chains.</text>
+  </g>
+  <rect x="98" y="505" width="130" height="4" rx="2" fill="#ed8c72"/>
+</svg>

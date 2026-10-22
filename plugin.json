@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "profit-atlas",
   "version": "0.1.0",
-  "description": "Evidence-based skills for mapping industry profit pools and reviewing how companies turn value into cash.",
+  "description": "Agent skills for researching industry profit pools and company value chains.",
   "license": "MIT",
   "keywords": [
     "industry-research",
