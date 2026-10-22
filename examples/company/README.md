@@ -1,6 +1,6 @@
 # Company examples
 
-No full company report is published here yet. The canonical structure and boundary cases live in [`../../evals/company-value-chain-review.md`](../../evals/company-value-chain-review.md).
+A full, dated CATL review is available in [English](catl-value-chain-review-en.md). The canonical structure and boundary cases live in [`../../evals/company-value-chain-review.md`](../../evals/company-value-chain-review.md).
 
 Useful example prompts:
 
