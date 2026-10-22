@@ -2,6 +2,8 @@
 
 This is a test brief, not a completed automotive-industry report.
 
+The completed Chinese test result is available in [`automotive-profit-pool-test-result-zh.md`](automotive-profit-pool-test-result-zh.md).
+
 ## Prompt
 
 > 研究中国新能源汽车产业链 2023—2025 年的利润池：利润主要集中在哪些环节，为什么；选择不同角色的代表企业验证；最后提出外部创业切入点，并判断 AI 在每个机会中是核心能力、增强手段、普通功能还是不必要。
