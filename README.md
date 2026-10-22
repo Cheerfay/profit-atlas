@@ -29,8 +29,8 @@ Both reports distinguish disclosed facts, calculations, and inference; link prim
 This repository is a **portable Agent Plugin**: its root [`plugin.json`](plugin.json) identifies the package and each reusable workflow lives under [`skills/`](skills/). The layout follows the open Agent Skills convention.
 
 1. Add the public marketplace: `codex plugin marketplace add Cheerfay/profit-atlas`.
-2. Install the plugin: `codex plugin install profit-atlas@profit-atlas`.
-3. Start a new chat and ask a natural-language research question. Install both folders when you want automatic routing between industry-first and company-first questions.
+2. Install the plugin: `codex plugin add profit-atlas@profit-atlas`.
+3. Start a new chat and ask a natural-language research question. The installed plugin exposes both Skills for automatic routing between industry-first and company-first questions.
 
 If your host does not support marketplaces, clone or download this repository and copy either required folder from [`skills/`](skills/) into that host's configured Skills directory.
 
